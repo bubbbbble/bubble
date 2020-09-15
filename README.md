@@ -26,7 +26,7 @@ Total|100,000,000|100%           
 
 ## Release Ratio
 
-Round|1st round|2st round|3st round|4st round|5st round|6st round|7st round|8st round|9st round|10st round
+Round|1st round|2nd round|3rd round|4th round|5th round|6th round|7th round|8th round|9th round|10th round
 ---|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 Prize pool balance（ETH）|100|150|200|250|300|400|500|600|700|800
 Release ratio|10%|10%|10%|10%|10%|10%|10%|10%|10%|10%
